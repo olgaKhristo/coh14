@@ -1,0 +1,40 @@
+​ body {
+     background-color: aqua;
+     font-family: Arial, sans-serif;
+     text-align: center;
+ }
+
+ ​ h1 {
+     text-align: center;
+     color: #333;
+     margin-top: 50px;
+ }
+
+ ​ p {
+     text-align: center;
+     color: #666;
+     margin-bottom: 20px;
+ }
+
+ ​ button {
+     background-color: #4CAF50;
+     color: white;
+     padding: 12px 24px;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+     margin-right: 10px;
+ }
+
+ ​ button:hover {
+     background-color: #3e8e41;
+ }
+
+ ​ #result {
+     text-align: center;
+     font-size: 24px;
+     font-weight: bold;
+     color: #333;
+     margin-top: 30px;
+ }
+
